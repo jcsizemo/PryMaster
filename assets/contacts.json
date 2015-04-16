@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "companyName": "Fun, LLC",
+      "parent": "ShareFile",
+      "managers": [
+        "Donald Duck",
+        "Mickey Mouse"
+      ]
+    },
+    {
+      "companyName": "Citrix",
+      "phones": [
+        "(919) 123-4567",
+        "(919) 234-1234"
+      ]
+    },
+    {
+      "companyName": "ShareFile",
+      "parent": "Citrix",
+      "addresses": [
+        "701 Corporate Center Drive, Raleigh, NC 27607",
+        "4140 Parklake Ave #320, Raleigh, NC 27612"
+      ]
+    },
+    {
+      "name": "Donald Duck",
+      "phones": [
+        "(919) 133-4444"
+      ],
+      "addresses": [
+        "123 Cartoon Road, Miami, FL"
+      ]
+    }
+  ]
+}

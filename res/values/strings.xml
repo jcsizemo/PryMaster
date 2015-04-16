@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PryMaster</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logoDescription">PryMaster logo</string>
+    <string name="pry">PRY</string>
+    <string name="search">Search</string>
+    <string name="look">Look at contact</string>
+    
+    <string-array name="spinner_options">
+        <item>List All</item>
+        <item>List Businesses</item>
+        <item>List People</item>
+    </string-array>
+
+</resources>
